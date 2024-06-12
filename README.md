@@ -2,4 +2,4 @@
 
 
 a brain dump for [relevant research and datasheets
-](https://github.com/exdysa/man_generative-art.wiki)
+](https://github.com/exdysa/man_generative-art/wiki)
