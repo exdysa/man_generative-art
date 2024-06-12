@@ -1,2 +1,2 @@
 # man_generative-art
-brain dump for research and datasheets
+brain dump for relevant research and datasheets
