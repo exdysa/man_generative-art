@@ -9,7 +9,7 @@
 > Great diffusion learning resources -<br>
 [lilianweng.github.io Concentrated information in a single place](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)<br>
 [The-GAN-Zoo A very thorough GAN paper collection](https://github.com/hindupuravinash/the-gan-zoo)<br>
-[Awesome-Diffusion-Models, A Giant Paper Dump](https://github.com/kyegomez/EXA-1/tree/0e544f47a164548d74d4e986d0c0e6dd6b47cc0d/exa/papers/Awesome-Diffusion-Models)<br>
+[Awesome-Diffusion-Models, A huge paper collection](https://github.com/kyegomez/EXA-1/tree/0e544f47a164548d74d4e986d0c0e6dd6b47cc0d/exa/papers/Awesome-Diffusion-Models)<br>
 [huggingface.co Transformers Docs](https://huggingface.co/docs/transformers/index)<br>
 [Deep Dive into AI with MLX](https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch/tree/master/deep-dives)<br>
 
