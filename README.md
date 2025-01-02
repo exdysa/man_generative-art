@@ -104,6 +104,7 @@ Schedulers
 > * https://arxiv.org/abs/2305.08891 V Prediction with Zero SNR And CFG Rescale
 > * https://arxiv.org/abs/2404.14507 Align Your Steps
 > * https://arxiv.org/abs/2406.03293 Rectified Flow
+> * https://arxiv.org/abs/2412.06264 Flow Matching Guide and Code
 
 > [top](#top)
 
