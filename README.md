@@ -8,6 +8,7 @@
 >
 > Great diffusion learning resources -<br>
 [lilianweng.github.io Concentrated information in a single place](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)<br>
+[Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices](https://arxiv.org/html/2410.11795v1)<br>
 [The-GAN-Zoo A very thorough GAN paper collection](https://github.com/hindupuravinash/the-gan-zoo)<br>
 [Awesome-Diffusion-Models, A huge paper collection](https://github.com/kyegomez/EXA-1/tree/0e544f47a164548d74d4e986d0c0e6dd6b47cc0d/exa/papers/Awesome-Diffusion-Models)<br>
 [huggingface.co Transformers Docs](https://huggingface.co/docs/transformers/index)<br>
