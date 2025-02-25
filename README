@@ -3,8 +3,9 @@ Users/droid/@gh ~ % man generative-art
 # Generative art
 ### a brain dump for relevant generative art research and datasheets
 
-This is a reference list for programmers to find articles of interest from ARXIV ~~(pronounced arZIV!!)~~ and pinpoint exact formula and techniques.
+This is a reference list for programmers to find articles of interest and pinpoint exact formula and techniques.
 It may also be good for winning arguments or persuading people into believing you know things (like I do).
+Primarily its composed of links from ARXIV ~~(pronounced arZIV!!)~~ but as time moves on it grows.
 
 [lilianweng.github.io Concentrated information in a single place](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)<br>
 [Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices](https://arxiv.org/html/2410.11795v1)<br>
