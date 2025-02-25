@@ -7,13 +7,14 @@ This is a reference list for programmers to find articles of interest and pinpoi
 It may also be good for winning arguments or persuading people into believing you know things (like I do).
 Primarily its composed of links from ARXIV ~~(pronounced arZIV!!)~~ but as time moves on it grows.
 
-[lilianweng.github.io Concentrated information in a single place](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)<br>
-[Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices](https://arxiv.org/html/2410.11795v1)<br>
-[Awesome-Diffusion-Models, A huge paper collection](https://github.com/kyegomez/EXA-1/tree/0e544f47a164548d74d4e986d0c0e6dd6b47cc0d/exa/papers/Awesome-Diffusion-Models)<br>
-[The-GAN-Zoo A very thorough GAN paper collection](https://github.com/hindupuravinash/the-gan-zoo)<br>
-[Deep Dive into AI with MLX](https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch/tree/master/deep-dives)<br>
-[huggingface.co Transformers Docs](https://huggingface.co/docs/transformers/index)<br>
+General
 
+https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ Concentrated information in a single place 
+https://arxiv.org/html/2410.11795v1 Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices
+(https://github.com/kyegomez/EXA-1/tree/0e544f47a164548d74d4e986d0c0e6dd6b47cc0d/exa/papers/Awesome-Diffusion-Models A huge paper collection
+https://github.com/hindupuravinash/the-gan-zoo A very thorough GAN paper collection
+https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch/tree/master/deep-dives MLX architecture
+https://huggingface.co/docs/transformers/index huggingface.co Transformers
 
 Diffusion Models (& Variational Autoencoders)
 
