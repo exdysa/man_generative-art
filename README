@@ -23,8 +23,8 @@ OPTIONS
   https://www.ibm.com/think/topics/diffusion-models Brief technical overview of Diffusion models
   https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ Concentrated information in a single place 
   https://arxiv.org/html/2410.11795v1 Efficient Diffusion Models: A Comprehensive Survey
-  https://github.com/kyegomez/EXA-1/tree/0e544f47a164548d74d4e986d0c0e6dd6b47cc0d/exa/papers/Awesome-Diffusion-Models A huge paper collection
   https://github.com/hindupuravinash/the-gan-zoo A very thorough GAN paper collection
+  https://github.com/kyegomez/EXA-1 Very large but dated paper collection
   https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch/tree/master/deep-dives MLX architecture
   https://huggingface.co/docs/transformers/index huggingface.co Transformers
   https://github.com/christianversloot/machine-learning-articles
