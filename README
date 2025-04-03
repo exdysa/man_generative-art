@@ -63,6 +63,7 @@ ATTENTION
   https://arxiv.org/abs/1711.10485 Attentional GAN
   https://arxiv.org/abs/2103.14030 Swin Shifted windows Transformer
   https://arxiv.org/abs/2108.01073 SDEdit
+  https://arxiv.org/abs/2211.12572 Plug & Play I2I Translation
   https://arxiv.org/abs/2112.05682v2 Self Attention Memory Efficiency
   https://arxiv.org/abs/2205.14135 Flash Attention
   https://arxiv.org/abs/2307.08691 Flash Attention 2: Attention Boogaloo
@@ -77,6 +78,7 @@ GUIDANCE
   https://arxiv.org/abs/2301.12247 Semantic Guidance
   https://arxiv.org/abs/2301.13826 Attend-and-excite Attention Guidance, Generative Semantic Nursing
   https://arxiv.org/abs/2404.07724 Interval Guidance
+
   
 SCHEDULERS
   
