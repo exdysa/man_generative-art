@@ -59,7 +59,8 @@ DIFFUSION MODELS (& VARIATIONAL AUTOENCODERS)
   https://arxiv.org/abs/2502.09992 Llada
   https://arxiv.org/pdf/2502.09509 EQ Vae (reducing equivariant symmetry errors)
   https://arxiv.org/abs/2504.07963 PixelFlow
-  
+  https://arxiv.org/abs/2504.05741 Decoupled Diffusion Transformer (DDT)
+
 ATTENTION
   
   https://arxiv.org/abs/1406.2661 Generative Adversarial Networks
@@ -154,7 +155,8 @@ OPTIMIZATIONS
   https://arxiv.org/abs/2406.10163 Pd Mesh
   https://arxiv.org/abs/2407.02158 UltraPixel 4k-6k image generation
   https://arxiv.org/abs/2410.23054v1 Controlling Language and Diffusion Models by Transporting Activations
-  
+  https://arxiv.org/abs/2504.10483 REPA-E VAE training
+
 MISC
 
   https://arxiv.org/abs/1603.09382 stochastic depth training
