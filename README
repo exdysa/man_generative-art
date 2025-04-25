@@ -157,6 +157,7 @@ OPTIMIZATIONS
   https://arxiv.org/abs/2407.02158 UltraPixel 4k-6k image generation
   https://arxiv.org/abs/2410.23054v1 Controlling Language and Diffusion Models by Transporting Activations
   https://arxiv.org/abs/2504.10483 REPA-E VAE training
+  https://arxiv.org/abs/2504.17789 Token Shuffle autoregressive image synthesis token reduction
 
 MISC
 
