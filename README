@@ -16,11 +16,11 @@ DESCRIPTION
 
   This is a reference list for programmers to find articles of interest and pinpoint exact formula and techniques. It may also be good for winning arguments or persuading others to believe you know things (I, a smooth brain). Primarily its composed of links from ARXIV ~~(pronounced arZIV!!)~~ but as time moves on it grows.
 
-OPTIONS
+ALTERNATIVE RESOURCES
 
+  https://github.com/ponyzym/Efficient-Diffusion-Models-Survey A Comparative Diffusion Survey, Very similar and organized
   https://www.ibm.com/think/topics/diffusion-models Technical but brief overview of Diffusion models
   https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ Concentrated quality information
-  https://github.com/ponyzym/Efficient-Diffusion-Models-Survey A Comparative Diffusion Survey
   https://github.com/pliang279/awesome-multimodal-ml Huge multimodal paper collection
   https://github.com/hindupuravinash/the-gan-zoo Very thorough GAN paper collection
   https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space SDXL Specific details
@@ -30,7 +30,7 @@ OPTIONS
   https://github.com/kyegomez/EXA-1 Very large but dated paper collection
 
   
-DIFFUSION MODELS (& VARIATIONAL AUTOENCODERS)
+IMAGE SYNTHESIS (DIFFUSION, AUTOREGRESSIVE & VARIATIONAL AUTOENCODERS)
   
   https://arxiv.org/abs/1312.6114 Variational Autoencoders
   https://arxiv.org/abs/2112.10752 Latent Diffusion
