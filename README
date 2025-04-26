@@ -44,14 +44,17 @@ IMAGE SYNTHESIS (DIFFUSION, AUTOREGRESSIVE & VARIATIONAL AUTOENCODERS)
   https://arxiv.org/abs/2401.02677 Segmind SSD-1V & Vega
   https://arxiv.org/abs/2401.05252 Pixart-δ
   https://arxiv.org/abs/2402.13929 SDXL Lightning
+  https://arxiv.org/abs/2402.17245 Playground 2.5
   https://arxiv.org/abs/2403.03206 Stable Diffusion 3
   https://arxiv.org/abs/2403.04692 PixArt-Σ
   https://arxiv.org/abs/2403.05121 CogView3
+  https://arxiv.org/abs/2403.13802 ZigMa DiT style Mamba-based Diffusion
   https://arxiv.org/abs/2404.02905 VAR Autoregressive Modeling
   https://arxiv.org/abs/2404.13686 Hyper-SD
   https://arxiv.org/abs/2405.05945 Lumina T2X
   https://arxiv.org/abs/2405.08748 HunYuan-DiT
   https://arxiv.org/abs/2405.02730 U-Dit
+  https://arxiv.org/abs/2405.14224 State-Space Model DiM Diffusion Mamba
   https://arxiv.org/abs/2406.18583 Lumina-Next (Next-DiT)
   https://arxiv.org/abs/2408.11039 Transfusion Multimodal Prediction
   https://arxiv.org/abs/2409.19946 Ilustrious
@@ -75,9 +78,12 @@ ATTENTION
   https://arxiv.org/abs/2112.05682v2 Self Attention Memory Efficiency
   https://arxiv.org/abs/2205.14135 Flash Attention
   https://arxiv.org/abs/2307.08691 Flash Attention 2: Attention Boogaloo
+  https://arxiv.org/abs/2312.06635 GLA Gated Linear Attention Transformer
+  https://arxiv.org/abs/2405.18428 DiG Diffusion-Gated Linear Attention Transformer
   https://arxiv.org/abs/2406.08552 DiTFastAttn: Attention Compression
   https://arxiv.org/abs/2407.08608 Flash Attention 3: The Flash Crusade
   https://arxiv.org/abs/2411.06558 Region-Aware Generation Diffusion, improved composition
+
   
 GUIDANCE
   
@@ -118,6 +124,7 @@ LANGUAGE MODELS
   https://arxiv.org/abs/2211.06679 ALTCLIP
   https://arxiv.org/abs/2403.08857 Evaluating Multi-Modal LLMs
   https://arxiv.org/abs/2406.06525 Llama for Scalable Image Generation (Autoregressive Vs Diffusion)
+  https://arxiv.org/abs/2408.05636 SpecDiff Accelerating Language Generation through speculative diffusion decoding
   https://arxiv.org/abs/2502.13967 FlexTok 1D Token Latent Image Reconstruction
 
   
@@ -140,7 +147,10 @@ OPTIMIZATIONS
   https://arxiv.org/abs/2302.05543 ControlNET
   https://arxiv.org/abs/2302.08453 T2i Adapter
   https://arxiv.org/abs/2303.06555 UniDiffuser
+  https://arxiv.org/abs/2304.02643 SAM Segment Anything
   https://arxiv.org/abs/2305.08891 ZSNR Zero signal-to-noise
+  https://arxiv.org/abs/2305.10973 DragGAN Diffusion Manifold manipulation
+  https://arxiv.org/abs/2307.02421 DragonDiffusion Drag Editing
   https://arxiv.org/abs/2309.11497 FreeU
   https://arxiv.org/abs/2310.04378 LCM
   https://arxiv.org/abs/2311.05556 LCM-LoRA
@@ -149,8 +159,9 @@ OPTIMIZATIONS
   https://arxiv.org/abs/2312.02238 X-Adapter modular model mapping
   https://arxiv.org/abs/2312.12491 StreamDiffusion real time generating and modifying
   https://arxiv.org/abs/2405.18407 PCM Phased Consistency
-  https://arxiv.org/abs/2304.02643 SAM Segment Anything
+  https://arxiv.org/abs/2405.14430 PipeFusion parallel DiT processing
   https://arxiv.org/abs/2406.04314 SPO
+  https://arxiv.org/abs/2406.06911 Async Denoising Parallel Diffusion
   https://arxiv.org/abs/2406.09416 Scaling detail w multiple networks and normalization to prevent distortions
   https://arxiv.org/abs/2404.10177 Corrupted data training
   https://arxiv.org/abs/2406.10163 Pd Mesh
