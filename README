@@ -20,7 +20,7 @@ OPTIONS
 
   https://www.ibm.com/think/topics/diffusion-models Technical but brief overview of Diffusion models
   https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ Concentrated quality information
-  https://arxiv.org/html/2410.11795v1 Efficient Diffusion Models: A Comparative Diffusion Survey
+  https://github.com/ponyzym/Efficient-Diffusion-Models-Survey A Comparative Diffusion Survey
   https://github.com/pliang279/awesome-multimodal-ml Huge multimodal paper collection
   https://github.com/hindupuravinash/the-gan-zoo Very thorough GAN paper collection
   https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space SDXL Specific details
@@ -55,7 +55,7 @@ DIFFUSION MODELS (& VARIATIONAL AUTOENCODERS)
   https://arxiv.org/abs/2406.18583 Lumina-Next (Next-DiT)
   https://arxiv.org/abs/2408.11039 Transfusion Multimodal Prediction
   https://arxiv.org/abs/2409.19946 Ilustrious
-  https://arxiv.org/html/2410.11795v1 Efficiency Comparison and Overview of models ca Oct 2024
+  https://arxiv.org/abs/2410.11795 Efficiency Comparison and Overview of models ca Oct 2024
   https://arxiv.org/abs/2412.04431 Infinity
   https://arxiv.org/abs/2502.09992 Llada
   https://arxiv.org/pdf/2502.09509 EQ Vae (reducing equivariant symmetry errors)
