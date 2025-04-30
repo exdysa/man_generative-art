@@ -172,6 +172,7 @@ OPTIMIZATIONS
 
 MISC
 
+
   https://arxiv.org/abs/1603.09382 stochastic depth training
   https://arxiv.org/abs/1611.07004 pix2pix
   https://arxiv.org/abs/1806.02658 Super resolution particulars
@@ -196,3 +197,6 @@ MISC
   https://blog.fal.ai/auraflow/
   https://blog.segmind.com/segmind-vega-2/
   https://stable-diffusion-art.com/samplers/
+  https://ostris.com/2024/09/07/skipping-flux-1-dev-blocks/ Skipping blocks in flux
+  https://github.com/fal-ai/f-lite/blob/main/assets/F%20Lite%20Technical%20Report.pdf Fal F-Lite
+
