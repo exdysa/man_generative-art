@@ -41,6 +41,7 @@ IMAGE SYNTHESIS (DIFFUSION, AUTOREGRESSIVE & VARIATIONAL AUTOENCODERS)
   https://arxiv.org/abs/2306.00637 Würstchen
   https://arxiv.org/abs/2307.01952 SDXL
   https://arxiv.org/abs/2310.00426 Pixart-α
+  https://arxiv.org/abs/2310.12395 Closed-Form Score Generative Diffusion Models
   https://arxiv.org/abs/2310.16825 CommonCanvas - Diffusion from Collective Commons images
   https://arxiv.org/abs/2401.02677 Segmind SSD-1V & Vega
   https://arxiv.org/abs/2401.05252 Pixart-δ
@@ -65,6 +66,7 @@ IMAGE SYNTHESIS (DIFFUSION, AUTOREGRESSIVE & VARIATIONAL AUTOENCODERS)
   https://arxiv.org/pdf/2502.09509 EQ Vae (reducing equivariant symmetry errors)
   https://arxiv.org/abs/2504.07963 PixelFlow
   https://arxiv.org/abs/2504.05741 Decoupled Diffusion Transformer (DDT)
+  https://arxiv.org/html/2505.07447v1 Unified Continuous Generative Models
 
 ATTENTION
   
