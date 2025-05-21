@@ -161,6 +161,7 @@ OPTIMIZATIONS
   https://arxiv.org/abs/2312.00858v2 DeepCache
   https://arxiv.org/abs/2312.02238 X-Adapter modular model mapping
   https://arxiv.org/abs/2312.12491 StreamDiffusion real time generating and modifying
+  https://arxiv.org/abs/2401.11605 Scalable Image Synthesis via Hourglass Diffusion
   https://arxiv.org/abs/2405.18407 PCM Phased Consistency
   https://arxiv.org/abs/2405.14430 PipeFusion parallel DiT processing
   https://arxiv.org/abs/2406.04314 SPO
