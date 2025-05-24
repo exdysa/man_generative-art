@@ -127,6 +127,7 @@ LANGUAGE MODELS
   https://arxiv.org/abs/2112.10003 CLIPSeg
   https://arxiv.org/abs/2205.11487 Photorealistic Language models, Imagen & DrawBench benchmark
   https://arxiv.org/abs/2211.06679 ALTCLIP
+  https://arxiv.org/abs/2311.14284 Paragraph to Image using LLM Models
   https://arxiv.org/abs/2403.08857 Evaluating Multi-Modal LLMs
   https://arxiv.org/abs/2406.06525 Llama for Scalable Image Generation (Autoregressive Vs Diffusion)
   https://arxiv.org/abs/2408.05636 SpecDiff Accelerating Language Generation through speculative diffusion decoding
