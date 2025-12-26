@@ -4,240 +4,236 @@ GENERATIVE_ART(1)
 
 NAME
 
-  generative art - brain dump for relevant research and datasheets
+generative art - brain dump for relevant research and datasheets
 
 SYNOPSIS
 
-
-  generative-art [-v | --version][-h | --help][-r | --read][-q | --queue]
-               [-o <path>][--config=<path>] <command> [<args>]
+generative-art [-v | --version][-h | --help][-r | --read][-q | --queue]
+[-o <path>][--config=<path>] <command> [<args>]
 
 DESCRIPTION
 
-  This is a reference list for programmers to find articles of interest and pinpoint exact formulae and techniques. Primarily pre-print ARXIV focused.
+This is a reference list for programmers to find articles of interest and pinpoint exact formulae and techniques. Primarily pre-print ARXIV focused.
 
 IMAGE SYNTHESIS (DIFFUSION, AUTOREGRESSIVE & VARIATIONAL AUTOENCODERS)
-  
-  https://arxiv.org/abs/1312.6114 Variational Autoencoders
-  https://arxiv.org/abs/2112.10752 Latent Diffusion
-  https://arxiv.org/abs/2205.11487v1 Imagen
-  https://arxiv.org/abs/2209.03003 Rectified Flow
-  https://arxiv.org/abs/2211.01324 The Ensemble of Expert Denoisers
-  https://arxiv.org/abs/2212.09748 DiT
-  https://arxiv.org/abs/2306.00637 Würstchen
-  https://arxiv.org/abs/2307.01952 SDXL
-  https://arxiv.org/abs/2310.00426 Pixart-α
-  https://arxiv.org/abs/2310.12395 Closed-Form Score Generative Diffusion Models
-  https://arxiv.org/abs/2310.16825 CommonCanvas - Diffusion from Collective Commons images
-  https://arxiv.org/abs/2401.02677 Segmind SSD-1V & Vega
-  https://arxiv.org/abs/2401.05252 Pixart-δ
-  https://arxiv.org/abs/2402.13929 SDXL Lightning
-  https://arxiv.org/abs/2402.17245 Playground 2.5
-  https://arxiv.org/abs/2403.03206 Stable Diffusion 3
-  https://arxiv.org/abs/2403.04692 PixArt-Σ
-  https://arxiv.org/abs/2403.05121 CogView3
-  https://arxiv.org/abs/2403.13802 ZigMa DiT style Mamba-based Diffusion
-  https://arxiv.org/abs/2404.02905 VAR Autoregressive Modeling
-  https://arxiv.org/abs/2404.13686 Hyper-SD
-  https://arxiv.org/abs/2405.05945 Lumina T2X
-  https://arxiv.org/abs/2405.08748 HunYuan-DiT
-  https://arxiv.org/abs/2405.02730 U-Dit
-  https://arxiv.org/abs/2405.14224 State-Space Model DiM Diffusion Mamba
-  https://arxiv.org/abs/2406.18583 Lumina-Next (Next-DiT)
-  https://arxiv.org/abs/2408.11039 Transfusion Multimodal Prediction
-  https://arxiv.org/abs/2409.10695v1 Playground 3
-  https://arxiv.org/abs/2409.19946 Ilustrious
-  https://arxiv.org/abs/2410.11795 Efficiency Comparison and Overview of models ca Oct 2024
-  https://arxiv.org/abs/2412.04431 Infinity
-  https://arxiv.org/abs/2502.09992 Llada
-  https://arxiv.org/pdf/2502.09509 EQ Vae (reducing equivariant symmetry errors)
-  https://arxiv.org/abs/2504.07963 PixelFlow
-  https://arxiv.org/abs/2504.05741 Decoupled Diffusion Transformer (DDT)
-  https://arxiv.org/html/2505.07447v1 Unified Continuous Generative Models
-  https://arxiv.org/abs/2510.11690 Diffusion Transformers with Representational Autoencoders
-  https://arxiv.org/abs/2511.13720 Back to Basics, Let Denoising Generative Models Denoise
+
+https://arxiv.org/abs/1312.6114 Variational Autoencoders
+https://arxiv.org/abs/2112.10752 Latent Diffusion
+https://arxiv.org/abs/2205.11487v1 Imagen
+https://arxiv.org/abs/2209.03003 Rectified Flow
+https://arxiv.org/abs/2211.01324 The Ensemble of Expert Denoisers
+https://arxiv.org/abs/2212.09748 DiT
+https://arxiv.org/abs/2306.00637 Würstchen
+https://arxiv.org/abs/2307.01952 SDXL
+https://arxiv.org/abs/2310.00426 Pixart-α
+https://arxiv.org/abs/2310.12395 Closed-Form Score Generative Diffusion Models
+https://arxiv.org/abs/2310.16825 CommonCanvas - Diffusion from Collective Commons images
+https://arxiv.org/abs/2401.02677 Segmind SSD-1V & Vega
+https://arxiv.org/abs/2401.05252 Pixart-δ
+https://arxiv.org/abs/2402.13929 SDXL Lightning
+https://arxiv.org/abs/2402.17245 Playground 2.5
+https://arxiv.org/abs/2403.03206 Stable Diffusion 3
+https://arxiv.org/abs/2403.04692 PixArt-Σ
+https://arxiv.org/abs/2403.05121 CogView3
+https://arxiv.org/abs/2403.13802 ZigMa DiT style Mamba-based Diffusion
+https://arxiv.org/abs/2404.02905 VAR Autoregressive Modeling
+https://arxiv.org/abs/2404.13686 Hyper-SD
+https://arxiv.org/abs/2405.02730 U-Dit
+https://arxiv.org/abs/2405.05945 Lumina T2X
+https://arxiv.org/abs/2405.08748 HunYuan-DiT
+https://arxiv.org/abs/2405.14224 State-Space Model DiM Diffusion Mamba
+https://arxiv.org/abs/2406.18583 Lumina-Next (Next-DiT)
+https://arxiv.org/abs/2408.11039 Transfusion Multimodal Prediction
+https://arxiv.org/abs/2409.10695v1 Playground 3
+https://arxiv.org/abs/2409.19946 Ilustrious
+https://arxiv.org/abs/2410.11795 Efficiency Comparison and Overview of models ca Oct 2024
+https://arxiv.org/abs/2412.04431 Infinity
+https://arxiv.org/abs/2502.09992 Llada
+https://arxiv.org/abs/2504.05741 Decoupled Diffusion Transformer (DDT)
+https://arxiv.org/abs/2504.07963 PixelFlow
+https://arxiv.org/abs/2510.11690 Diffusion Transformers with Representational Autoencoders
+https://arxiv.org/abs/2510.21890 The Principles of Diffusion Models
+https://arxiv.org/abs/2511.13720 Back to Basics, Let Denoising Generative Models Denoise
+https://arxiv.org/abs/2505.07447v1 Unified Continuous Generative Models
+https://arxiv.org/abs/2502.09509 EQ Vae (reducing equivariant symmetry errors)
 
 ATTENTION
-  
-  https://arxiv.org/abs/1406.2661 Generative Adversarial Networks
-  https://arxiv.org/abs/1505.04597 UNet Model
-  https://arxiv.org/abs/1512.03385 ResNet Model
-  https://arxiv.org/abs/1706.03762 the Transformer & attention
-  https://arxiv.org/abs/1711.10485 Attentional GAN
-  https://arxiv.org/abs/2103.14030 Swin Shifted windows Transformer
-  https://arxiv.org/abs/2108.01073 SDEdit
-  https://arxiv.org/abs/2211.12572 Plug & Play I2I Translation
-  https://arxiv.org/abs/2112.05682v2 Self Attention Memory Efficiency
-  https://arxiv.org/abs/2205.14135 Flash Attention
-  https://arxiv.org/abs/2307.08691 Flash Attention 2: Attention Boogaloo
-  https://arxiv.org/abs/2312.06635 GLA Gated Linear Attention Transformer
-  https://arxiv.org/abs/2405.18428 DiG Diffusion-Gated Linear Attention Transformer
-  https://arxiv.org/abs/2406.08552 DiTFastAttn: Attention Compression
-  https://arxiv.org/abs/2407.08608 Flash Attention 3: The Flash Crusade
-  https://arxiv.org/abs/2411.06558 Region-Aware Generation Diffusion, improved composition
 
-  
+https://arxiv.org/abs/1406.2661 Generative Adversarial Networks
+https://arxiv.org/abs/1505.04597 UNet Model
+https://arxiv.org/abs/1512.03385 ResNet Model
+https://arxiv.org/abs/1706.03762 the Transformer & attention
+https://arxiv.org/abs/1711.10485 Attentional GAN
+https://arxiv.org/abs/2103.14030 Swin Shifted windows Transformer
+https://arxiv.org/abs/2108.01073 SDEdit
+https://arxiv.org/abs/2112.05682v2 Self Attention Memory Efficiency
+https://arxiv.org/abs/2205.14135 Flash Attention
+https://arxiv.org/abs/2211.12572 Plug & Play I2I Translation
+https://arxiv.org/abs/2307.08691 Flash Attention 2: Attention Boogaloo
+https://arxiv.org/abs/2312.06635 GLA Gated Linear Attention Transformer
+https://arxiv.org/abs/2405.18428 DiG Diffusion-Gated Linear Attention Transformer
+https://arxiv.org/abs/2406.08552 DiTFastAttn: Attention Compression
+https://arxiv.org/abs/2407.08608 Flash Attention 3: The Flash Crusade
+https://arxiv.org/abs/2411.06558 Region-Aware Generation Diffusion, improved composition
+
 GUIDANCE
-  
-  https://arxiv.org/abs/2207.12598 Classifer Free Guidance
-  https://arxiv.org/abs/2210.00939 Self-Attention Guidance
-  https://arxiv.org/abs/2301.12247 Semantic Guidance
-  https://arxiv.org/abs/2301.13826 Attend-and-excite Attention Guidance, Generative Semantic Nursing
-  https://arxiv.org/abs/2404.07724 Interval Guidance
-  https://arxiv.org/pdf/2406.02507 CFG Analysis
 
-  
+https://arxiv.org/abs/2207.12598 Classifier Free Guidance
+https://arxiv.org/abs/2210.00939 Self-Attention Guidance
+https://arxiv.org/abs/2301.12247 Semantic Guidance
+https://arxiv.org/abs/2301.13826 Attend-and-excite Attention Guidance, Generative Semantic Nursing
+https://arxiv.org/abs/2404.07724 Interval Guidance
+https://arxiv.org/abs/2406.02507 CFG Analysis
+https://arxiv.org/abs/2506.10978 Fine-Grained Perturbation Guidance via Attention Head Selection
+
 SCHEDULERS
-  
-  https://arxiv.org/abs/2006.11239 DDPM Denoising Diffusion Probabilistic Models
-  https://arxiv.org/abs/2010.02502v4 DDIM Denoising Diffusion Implicit Models
-  https://arxiv.org/abs/2011.13456 SDE Stochastic Differential Equations
-  https://arxiv.org/abs/2102.09672 DDPM optimizing
-  https://arxiv.org/abs/2105.14080 adaptive SDE
-  https://arxiv.org/abs/2206.00364 Euler scheduler (Algorithm 2) / Heun / Karras / DPMa SDE
-  https://arxiv.org/abs/2206.00927 DPM Solver
-  https://arxiv.org/abs/2211.01095 DPM Solver ++
-  https://arxiv.org/abs/2202.09778 PNDM Solving Pseudo linear multi-step Numerical Diffusion Models on manifolds
-  https://arxiv.org/abs/2210.02747 Flow Matching
-  https://arxiv.org/abs/2302.04867 UniPC Sampler
-  https://arxiv.org/abs/2305.08891 V Prediction with Zero SNR And CFG Rescale
-  https://arxiv.org/abs/2404.14507 Align Your Steps
-  https://arxiv.org/abs/2406.03293 Rectified Flow
-  https://arxiv.org/abs/2412.06264 Flow Matching Guide and Code
-  https://arxiv.org/abs/2503.10772 FlowTok
-  https://arxiv.org/abs/2506.14603 Align Your Flow
-  
+
+https://arxiv.org/abs/2006.11239 DDPM Denoising Diffusion Probabilistic Models
+https://arxiv.org/abs/2010.02502v4 DDIM Denoising Diffusion Implicit Models
+https://arxiv.org/abs/2011.13456 SDE Stochastic Differential Equations
+https://arxiv.org/abs/2102.09672 DDPM optimizing
+https://arxiv.org/abs/2105.14080 adaptive SDE
+https://arxiv.org/abs/2202.09778 PNDM Solving Pseudo linear multi-step Numerical Diffusion Models on manifolds
+https://arxiv.org/abs/2206.00364 Euler scheduler (Algorithm 2) / Heun / Karras / DPMa SDE
+https://arxiv.org/abs/2206.00927 DPM Solver
+https://arxiv.org/abs/2210.02747 Flow Matching
+https://arxiv.org/abs/2211.01095 DPM Solver ++
+https://arxiv.org/abs/2302.04867 UniPC Sampler
+https://arxiv.org/abs/2305.08891 V Prediction with Zero SNR And CFG Rescale
+https://arxiv.org/abs/2404.14507 Align Your Steps
+https://arxiv.org/abs/2406.03293 Rectified Flow
+https://arxiv.org/abs/2412.06264 Flow Matching Guide and Code
+https://arxiv.org/abs/2503.10772 FlowTok
+https://arxiv.org/abs/2506.14603 Align Your Flow
+
 LANGUAGE MODELS
 
-  https://arxiv.org/abs/1910.10683 T5 Text-to-Text Transfer Transformer
-  https://arxiv.org/abs/2010.11929 ViT Vision Transformer
-  https://arxiv.org/abs/2103.00020 Natural Language Supervision training
-  https://arxiv.org/abs/2106.04560 ViT Scaling
-  https://arxiv.org/abs/2112.10003 CLIPSeg
-  https://arxiv.org/abs/2205.11487 Photorealistic Language models, Imagen & DrawBench benchmark
-  https://arxiv.org/abs/2211.06679 ALTCLIP
-  https://arxiv.org/abs/2311.14284 Paragraph to Image using LLM Models
-  https://arxiv.org/abs/2403.08857 Evaluating Multi-Modal LLMs
-  https://arxiv.org/abs/2406.06525 Llama for Scalable Image Generation (Autoregressive Vs Diffusion)
-  https://arxiv.org/abs/2408.05636 SpecDiff Accelerating Language Generation through speculative diffusion decoding
-  https://arxiv.org/abs/2502.13967 FlexTok 1D Token Latent Image Reconstruction
-  https://arxiv.org/abs/2506.10892 Duo The Diffusion Duality
-  https://arxiv.org/abs/2512.19941 Block-Recurrent Dynamics in Vision Transformers
-  
+https://arxiv.org/abs/1910.10683 T5 Text-to-Text Transfer Transformer
+https://arxiv.org/abs/2010.11929 ViT Vision Transformer
+https://arxiv.org/abs/2103.00020 Natural Language Supervision training
+https://arxiv.org/abs/2106.04560 ViT Scaling
+https://arxiv.org/abs/2112.10003 CLIPSeg
+https://arxiv.org/abs/2205.11487 Photorealistic Language models, Imagen & DrawBench benchmark
+https://arxiv.org/abs/2211.06679 ALTCLIP
+https://arxiv.org/abs/2311.14284 Paragraph to Image using LLM Models
+https://arxiv.org/abs/2403.08857 Evaluating Multi-Modal LLMs
+https://arxiv.org/abs/2406.06525 Llama for Scalable Image Generation (Autoregressive Vs Diffusion)
+https://arxiv.org/abs/2408.05636 SpecDiff Accelerating Language Generation through speculative diffusion decoding
+https://arxiv.org/abs/2502.13967 FlexTok 1D Token Latent Image Reconstruction
+https://arxiv.org/abs/2506.10892 Duo The Diffusion Duality
+https://arxiv.org/abs/2512.19941 Block-Recurrent Dynamics in Vision Transformers
+
 IMAGE RESTORATION/SUPER RESOLUTION MODELS
 
-  https://arxiv.org/abs/1802.05957 GAN Color Normalization
-  https://arxiv.org/abs/2107.10833 RealESRGAN
-  https://arxiv.org/abs/2108.10257 SwinIR
-  https://arxiv.org/abs/2401.13627 SUPIR
-  
+https://arxiv.org/abs/1802.05957 GAN Color Normalization
+https://arxiv.org/abs/2107.10833 RealESRGAN
+https://arxiv.org/abs/2108.10257 SwinIR
+https://arxiv.org/abs/2401.13627 SUPIR
+
 OPTIMIZATIONS
-  
-  https://arxiv.org/abs/1711.07837 UnFlow unsupervised training
-  https://arxiv.org/abs/2207.04316 Patching diffusion models to increase efficiency
-  https://arxiv.org/abs/2208.01618 Textual Inversion
-  https://arxiv.org/abs/2208.12242 DreamBooth training
-  https://arxiv.org/abs/2110.02861 8 bit optimizers with 32 bit performance
-  https://arxiv.org/abs/2202.00512 Distillation
-  https://arxiv.org/abs/2302.05442 ViT 22b Scaling
-  https://arxiv.org/abs/2302.05543 ControlNET
-  https://arxiv.org/abs/2302.08453 T2i Adapter
-  https://arxiv.org/abs/2303.06555 UniDiffuser
-  https://arxiv.org/abs/2304.02643 SAM Segment Anything
-  https://arxiv.org/abs/2305.08891 ZSNR Zero signal-to-noise
-  https://arxiv.org/abs/2305.10973 DragGAN Diffusion Manifold manipulation
-  https://arxiv.org/abs/2307.02421 DragonDiffusion Drag Editing
-  https://arxiv.org/abs/2309.11497 FreeU
-  https://arxiv.org/abs/2310.04378 LCM
-  https://arxiv.org/abs/2311.05556 LCM-LoRA
-  https://arxiv.org/abs/2311.17137 Intrinsic LoRA
-  https://arxiv.org/abs/2312.00858v2 DeepCache
-  https://arxiv.org/abs/2312.02238 X-Adapter modular model mapping
-  https://arxiv.org/abs/2312.12491 StreamDiffusion real time generating and modifying
-  https://arxiv.org/abs/2401.11605 Scalable Image Synthesis via Hourglass Diffusion
-  https://arxiv.org/abs/2402.19159 TCD Trajectory Consistency Distillation
-  https://arxiv.org/abs/2405.18407 PCM Phased Consistency
-  https://arxiv.org/abs/2405.14430 PipeFusion parallel DiT processing
-  https://arxiv.org/abs/2406.04314 SPO
-  https://arxiv.org/abs/2406.06911 Async Denoising Parallel Diffusion
-  https://arxiv.org/abs/2406.09416 Scaling detail w multiple networks and normalization to prevent distortions
-  https://arxiv.org/abs/2404.10177 Corrupted data training
-  https://arxiv.org/abs/2406.10163 Pd Mesh
-  https://arxiv.org/abs/2407.02158 UltraPixel 4k-6k image generation
-  https://arxiv.org/abs/2408.05446 Ensemble Everything Everywhere: Multi-scale aggregation for adversarial robustness
-  https://arxiv.org/abs/2410.23054v1 Controlling Language and Diffusion Models by Transporting Activations
-  https://arxiv.org/abs/2503.07565 Inductive MOment Matching
-  https://arxiv.org/abs/2504.10483 REPA-E VAE training
-  https://arxiv.org/abs/2504.17789 Token Shuffle autoregressive image synthesis token reduction
-  https://arxiv.org/abs/2505.13447 One step Generative Modeling
-  https://arxiv.org/abs/2512.15657 SoFlow One Step Generative Modeling
-  https://arxiv.org/abs/2512.15603 Qwen-Image-Layered
-  https://arxiv.org/abs/2511.19797 TVM Terminal Velocity Matching
+
+https://arxiv.org/abs/1711.07837 UnFlow unsupervised training
+https://arxiv.org/abs/2110.02861 8 bit optimizers with 32 bit performance
+https://arxiv.org/abs/2202.00512 Distillation
+https://arxiv.org/abs/2207.04316 Patching diffusion models to increase efficiency
+https://arxiv.org/abs/2208.01618 Textual Inversion
+https://arxiv.org/abs/2208.12242 DreamBooth training
+https://arxiv.org/abs/2302.05442 ViT 22b Scaling
+https://arxiv.org/abs/2302.05543 ControlNET
+https://arxiv.org/abs/2302.08453 T2i Adapter
+https://arxiv.org/abs/2303.06555 UniDiffuser
+https://arxiv.org/abs/2304.02643 SAM Segment Anything
+https://arxiv.org/abs/2305.08891 ZSNR Zero signal-to-noise
+https://arxiv.org/abs/2305.10973 DragGAN Diffusion Manifold manipulation
+https://arxiv.org/abs/2307.02421 DragonDiffusion Drag Editing
+https://arxiv.org/abs/2309.11497 FreeU
+https://arxiv.org/abs/2310.04378 LCM
+https://arxiv.org/abs/2311.05556 LCM-LoRA
+https://arxiv.org/abs/2311.17137 Intrinsic LoRA
+https://arxiv.org/abs/2312.00858v2 DeepCache
+https://arxiv.org/abs/2312.02238 X-Adapter modular model mapping
+https://arxiv.org/abs/2312.12491 StreamDiffusion real time generating and modifying
+https://arxiv.org/abs/2401.11605 Scalable Image Synthesis via Hourglass Diffusion
+https://arxiv.org/abs/2402.19159 TCD Trajectory Consistency Distillation
+https://arxiv.org/abs/2404.10177 Corrupted data training
+https://arxiv.org/abs/2405.14430 PipeFusion parallel DiT processing
+https://arxiv.org/abs/2405.18407 PCM Phased Consistency
+https://arxiv.org/abs/2406.04314 SPO
+https://arxiv.org/abs/2406.06911 Async Denoising Parallel Diffusion
+https://arxiv.org/abs/2406.09416 Scaling detail w multiple networks and normalization to prevent distortions
+https://arxiv.org/abs/2406.10163 Pd Mesh
+https://arxiv.org/abs/2407.02158 UltraPixel 4k-6k image generation
+https://arxiv.org/abs/2408.05446 Ensemble Everything Everywhere: Multi-scale aggregation for adversarial robustness
+https://arxiv.org/abs/2410.23054v1 Controlling Language and Diffusion Models by Transporting Activations
+https://arxiv.org/abs/2503.07565 Inductive MOment Matching
+https://arxiv.org/abs/2504.10483 REPA-E VAE training
+https://arxiv.org/abs/2504.17789 Token Shuffle autoregressive image synthesis token reduction
+https://arxiv.org/abs/2505.13447 One step Generative Modeling
+https://arxiv.org/abs/2511.19797 TVM Terminal Velocity Matching
+https://arxiv.org/abs/2512.15603 Qwen-Image-Layered
+https://arxiv.org/abs/2512.15657 SoFlow One Step Generative Modeling
 
 ADVERSARIAL PERTURBATIONS
-  
-  https://arxiv.org/abs/2405.20584 AdvDM
-  https://arxiv.org/abs/2302.04578 MIST
-  https://arxiv.org/abs/2302.06588 Photoguard
-  https://arxiv.org/abs/2302.04222 Glaze
-  https://arxiv.org/abs/2311.13127 MetaCloak
-  https://arxiv.org/abs/2310.13828 Nightshade
-  https://arxiv.org/abs/2312.07865 SimAC
-  https://arxiv.org/abs/2412.11638 IDProtector
-  https://arxiv.org/abs/2303.15433 AntiDreambooth
-  https://arxiv.org/abs/2409.08167 HF-Anti Dreambooth
-  
-  
+
+https://arxiv.org/abs/2302.04222 Glaze
+https://arxiv.org/abs/2302.04578 MIST
+https://arxiv.org/abs/2302.06588 Photoguard
+https://arxiv.org/abs/2303.15433 AntiDreambooth
+https://arxiv.org/abs/2310.13828 Nightshade
+https://arxiv.org/abs/2311.13127 MetaCloak
+https://arxiv.org/abs/2312.07865 SimAC
+https://arxiv.org/abs/2405.20584 AdvDM
+https://arxiv.org/abs/2409.08167 HF-Anti Dreambooth
+https://arxiv.org/abs/2412.11638 IDProtector
+
 ANTI-ADVERSARIAL PERTURBATIONS
-  https://arxiv.org/abs/2205.07460 DiffPure
-  https://arxiv.org/abs/2406.12027 Adversarial Perturbations Cannot Reliably Protect Artists
-  https://arxiv.org/html/2511.10382v1 AntiDB Purify
+https://arxiv.org/abs/2205.07460 DiffPure
+https://arxiv.org/abs/2406.12027 Adversarial Perturbations Cannot Reliably Protect Artists
+https://arxiv.org/abs/2511.10382v1 AntiDB Purify
 
 MISC
 
-  https://arxiv.org/abs/1603.09382 stochastic depth training
-  https://arxiv.org/abs/1611.07004 pix2pix
-  https://arxiv.org/abs/1806.02658 Super resolution particulars
-  https://arxiv.org/abs/1810.12890 Managing dropout on layers using DropBlock]
-  https://arxiv.org/abs/1811.11718 Convolution Padding VS Zero Padding
-  https://arxiv.org/abs/1908.04913 Fair face
-  https://arxiv.org/abs/1910.04867 VTAB benchmark
-  https://arxiv.org/abs/2010.14701 Generative Scaling Laws and Relation
-  https://arxiv.org/abs/2105.05233 Comparative study of diffusion and GAN
-  https://arxiv.org/abs/2303.13439 Pix2Pix vid gen
-  https://arxiv.org/abs/2306.07154 InstructPix2Pix
-  https://arxiv.org/abs/2403.01779 OOTD clothing try on
-  https://arxiv.org/abs/1812.06162 Model training observations
-  https://arxiv.org/abs/2401.14423 Advanced Prompt Engineering
-  https://arxiv.org/abs/2403.12171 EasyJailbreak
-  https://arxiv.org/abs/1910.09700 Quantifying the Carbon Emissions of Machine Learning
-  https://arxiv.org/abs/2208.11695 How ImageNet Misrepresents Biodiversity
-  https://arxiv.org/abs/1912.11945 On the Morality of Artificial Intelligence
-  https://arxiv.org/search/cs?searchtype=author&query=Luccioni,+A All of this person's work is incredible tbh
-  https://arxiv.org/abs/2210.05559 CycleDiffusion Image2Image
-  https://arxiv.org/abs/2211.13227 Exemplar Based I2I Inpainting
-  https://blog.fal.ai/auraflow/
-  https://blog.segmind.com/segmind-vega-2/
-  https://stable-diffusion-art.com/samplers/
-  https://ostris.com/2024/09/07/skipping-flux-1-dev-blocks/ Skipping blocks in flux
-  https://github.com/fal-ai/f-lite/blob/main/assets/F%20Lite%20Technical%20Report.pdf Fal F-Lite
+https://arxiv.org/abs/1603.09382 stochastic depth training
+https://arxiv.org/abs/1611.07004 pix2pix
+https://arxiv.org/abs/1806.02658 Super resolution particulars
+https://arxiv.org/abs/1810.12890 Managing dropout on layers using DropBlock]
+https://arxiv.org/abs/1811.11718 Convolution Padding VS Zero Padding
+https://arxiv.org/abs/1812.06162 Model training observations
+https://arxiv.org/abs/1908.04913 Fair face
+https://arxiv.org/abs/1910.04867 VTAB benchmark
+https://arxiv.org/abs/1910.09700 Quantifying the Carbon Emissions of Machine Learning
+https://arxiv.org/abs/1912.11945 On the Morality of Artificial Intelligence
+https://arxiv.org/abs/2010.14701 Generative Scaling Laws and Relation
+https://arxiv.org/abs/2105.05233 Comparative study of diffusion and GAN
+https://arxiv.org/abs/2208.11695 How ImageNet Misrepresents Biodiversity
+https://arxiv.org/abs/2210.05559 CycleDiffusion Image2Image
+https://arxiv.org/abs/2211.13227 Exemplar Based I2I Inpainting
+https://arxiv.org/abs/2303.06219v1 The Carbon Emissions of Writing and Illustrating Are Lower for AI than for Humans
+https://arxiv.org/abs/2303.13439 Pix2Pix vid gen
+https://arxiv.org/abs/2306.07154 InstructPix2Pix
+https://arxiv.org/abs/2401.14423 Advanced Prompt Engineering
+https://arxiv.org/abs/2403.01779 OOTD clothing try on
+https://arxiv.org/abs/2403.12171 EasyJailbreak
+https://arxiv.org/search/cs?searchtype=author&query=Luccioni,+A All of this person's work is incredible tbh
 
 ALTERNATIVE RESOURCES
 
-  https://arxiv.org/abs/2510.21890 The Principles of Diffusion Models : An excellent book
-  https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ Concentrated quality, in-depth information
-  https://github.com/ponyzym/Efficient-Diffusion-Models-Survey Comparative list of diffusion models
+https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ Concentrated quality, in-depth information
+https://github.com/ponyzym/Efficient-Diffusion-Models-Survey Comparative list of diffusion models
 
-  
 RELATED COLLECTIONS
-  https://github.com/gpu-mode/awesomeMLSys Like a greatest hits collection, but for GPUs
-  https://github.com/BestJunYu/Awesome-Physics-aware-Generation Physics-specific paper collection
-  https://github.com/thubZ09/All-Things-Multimodal Solid Multimodal Source
-  https://github.com/pliang279/awesome-multimodal-ml Huge multimodal paper collection
-  https://github.com/hindupuravinash/the-gan-zoo Very thorough GAN paper collection
-  https://www.ibm.com/think/topics/diffusion-models Technical but brief overview of Diffusion models
-  https://github.com/christianversloot/machine-learning-articles Moar
-  https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space SDXL Specific details
-  https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch/tree/master/deep-dives MLX architecture
-  https://github.com/kyegomez/EXA-1 Very large but dated paper collection
-
+https://github.com/gpu-mode/awesomeMLSys Like a greatest hits collection, but for GPUs
+https://github.com/BestJunYu/Awesome-Physics-aware-Generation Physics-specific paper collection
+https://github.com/thubZ09/All-Things-Multimodal Solid Multimodal Source
+https://github.com/pliang279/awesome-multimodal-ml Huge multimodal paper collection
+https://github.com/hindupuravinash/the-gan-zoo Very thorough GAN paper collection
+https://www.ibm.com/think/topics/diffusion-models Technical but brief overview of Diffusion models
+https://github.com/christianversloot/machine-learning-articles Moar
+https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space SDXL Specific details
+https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch/tree/master/deep-dives MLX architecture
+https://github.com/kyegomez/EXA-1 Very large but dated paper collection
+https://blog.fal.ai/auraflow/
+https://blog.segmind.com/segmind-vega-2/
+https://stable-diffusion-art.com/samplers/
+https://ostris.com/2024/09/07/skipping-flux-1-dev-blocks/ Skipping blocks in flux
+https://github.com/fal-ai/f-lite/blob/main/assets/F%20Lite%20Technical%20Report.pdf Fal F-Lite
