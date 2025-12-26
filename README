@@ -54,6 +54,8 @@ IMAGE SYNTHESIS (DIFFUSION, AUTOREGRESSIVE & VARIATIONAL AUTOENCODERS)
   https://arxiv.org/abs/2504.07963 PixelFlow
   https://arxiv.org/abs/2504.05741 Decoupled Diffusion Transformer (DDT)
   https://arxiv.org/html/2505.07447v1 Unified Continuous Generative Models
+  https://arxiv.org/abs/2510.11690 Diffusion Transformers with Representational Autoencoders
+  https://arxiv.org/abs/2511.13720 Back to Basics, Let Denoising Generative Models Denoise
 
 ATTENTION
   
@@ -120,7 +122,7 @@ LANGUAGE MODELS
   https://arxiv.org/abs/2408.05636 SpecDiff Accelerating Language Generation through speculative diffusion decoding
   https://arxiv.org/abs/2502.13967 FlexTok 1D Token Latent Image Reconstruction
   https://arxiv.org/abs/2506.10892 Duo The Diffusion Duality
-
+  https://arxiv.org/abs/2512.19941 Block-Recurrent Dynamics in Vision Transformers
   
 IMAGE RESTORATION/SUPER RESOLUTION MODELS
 
@@ -164,11 +166,13 @@ OPTIMIZATIONS
   https://arxiv.org/abs/2407.02158 UltraPixel 4k-6k image generation
   https://arxiv.org/abs/2408.05446 Ensemble Everything Everywhere: Multi-scale aggregation for adversarial robustness
   https://arxiv.org/abs/2410.23054v1 Controlling Language and Diffusion Models by Transporting Activations
+  https://arxiv.org/abs/2503.07565 Inductive MOment Matching
   https://arxiv.org/abs/2504.10483 REPA-E VAE training
   https://arxiv.org/abs/2504.17789 Token Shuffle autoregressive image synthesis token reduction
   https://arxiv.org/abs/2505.13447 One step Generative Modeling
   https://arxiv.org/abs/2512.15657 SoFlow One Step Generative Modeling
   https://arxiv.org/abs/2512.15603 Qwen-Image-Layered
+  https://arxiv.org/abs/2511.19797 TVM Terminal Velocity Matching
 
 ADVERSARIAL PERTURBATIONS
   
