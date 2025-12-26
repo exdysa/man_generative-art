@@ -16,28 +16,12 @@ DESCRIPTION
 
   This is a reference list for programmers to find articles of interest and pinpoint exact formula and techniques. It may also be good for winning arguments or persuading others to believe you know things (I, a smooth brain). Primarily its composed of links from ARXIV ~~(pronounced arZIV!!)~~ but as time moves on it grows.
 
-ALTERNATIVE RESOURCES
-
-  https://github.com/ponyzym/Efficient-Diffusion-Models-Survey Comparative list, similar & organized
-  https://www.ibm.com/think/topics/diffusion-models Technical but brief overview of Diffusion models
-  https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ Concentrated quality information
-  https://github.com/gpu-mode/awesomeMLSys Like a greatest hits collection, but for GPUs
-  https://github.com/BestJunYu/Awesome-Physics-aware-Generation Physics-specific paper collection
-  https://github.com/thubZ09/All-Things-Multimodal Solid Multimodal Source
-  https://github.com/pliang279/awesome-multimodal-ml Huge multimodal paper collection
-  https://github.com/hindupuravinash/the-gan-zoo Very thorough GAN paper collection
-  https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space SDXL Specific details
-  https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch/tree/master/deep-dives MLX architecture
-  https://huggingface.co/docs/transformers/index huggingface.co Transformers
-  https://github.com/christianversloot/machine-learning-articles Moar
-  https://github.com/kyegomez/EXA-1 Very large but dated paper collection
-
-  
 IMAGE SYNTHESIS (DIFFUSION, AUTOREGRESSIVE & VARIATIONAL AUTOENCODERS)
   
   https://arxiv.org/abs/1312.6114 Variational Autoencoders
   https://arxiv.org/abs/2112.10752 Latent Diffusion
   https://arxiv.org/abs/2205.11487v1 Imagen
+  https://arxiv.org/abs/2209.03003 Rectified Flow
   https://arxiv.org/abs/2211.01324 The Ensemble of Expert Denoisers
   https://arxiv.org/abs/2212.09748 DiT
   https://arxiv.org/abs/2306.00637 Würstchen
@@ -119,6 +103,7 @@ SCHEDULERS
   https://arxiv.org/abs/2406.03293 Rectified Flow
   https://arxiv.org/abs/2412.06264 Flow Matching Guide and Code
   https://arxiv.org/abs/2503.10772 FlowTok
+  https://arxiv.org/abs/2506.14603 Align Your Flow
   
 LANGUAGE MODELS
 
@@ -134,6 +119,7 @@ LANGUAGE MODELS
   https://arxiv.org/abs/2406.06525 Llama for Scalable Image Generation (Autoregressive Vs Diffusion)
   https://arxiv.org/abs/2408.05636 SpecDiff Accelerating Language Generation through speculative diffusion decoding
   https://arxiv.org/abs/2502.13967 FlexTok 1D Token Latent Image Reconstruction
+  https://arxiv.org/abs/2506.10892 Duo The Diffusion Duality
 
   
 IMAGE RESTORATION/SUPER RESOLUTION MODELS
@@ -181,9 +167,29 @@ OPTIMIZATIONS
   https://arxiv.org/abs/2504.10483 REPA-E VAE training
   https://arxiv.org/abs/2504.17789 Token Shuffle autoregressive image synthesis token reduction
   https://arxiv.org/abs/2505.13447 One step Generative Modeling
+  https://arxiv.org/abs/2512.15657 SoFlow One Step Generative Modeling
+  https://arxiv.org/abs/2512.15603 Qwen-Image-Layered
+
+ADVERSARIAL PERTURBATIONS
+  
+  https://arxiv.org/abs/2405.20584 AdvDM
+  https://arxiv.org/abs/2302.04578 MIST
+  https://arxiv.org/abs/2302.06588 Photoguard
+  https://arxiv.org/abs/2302.04222 Glaze
+  https://arxiv.org/abs/2311.13127 MetaCloak
+  https://arxiv.org/abs/2310.13828 Nightshade
+  https://arxiv.org/abs/2312.07865 SimAC
+  https://arxiv.org/abs/2412.11638 IDProtector
+  https://arxiv.org/abs/2303.15433 AntiDreambooth
+  https://arxiv.org/abs/2409.08167 HF-Anti Dreambooth
+  
+  
+ANTI-ADVERSARIAL PERTURBATIONS
+  https://arxiv.org/abs/2205.07460 DiffPure
+  https://arxiv.org/abs/2406.12027 Adversarial Perturbations Cannot Reliably Protect Artists
+  https://arxiv.org/html/2511.10382v1 AntiDB Purify
 
 MISC
-
 
   https://arxiv.org/abs/1603.09382 stochastic depth training
   https://arxiv.org/abs/1611.07004 pix2pix
@@ -211,4 +217,23 @@ MISC
   https://stable-diffusion-art.com/samplers/
   https://ostris.com/2024/09/07/skipping-flux-1-dev-blocks/ Skipping blocks in flux
   https://github.com/fal-ai/f-lite/blob/main/assets/F%20Lite%20Technical%20Report.pdf Fal F-Lite
+
+ALTERNATIVE RESOURCES
+
+  https://arxiv.org/abs/2510.21890 The Principles of Diffusion Models : An excellent book
+  https://lilianweng.github.io/posts/2021-07-11-diffusion-models/ Concentrated quality, in-depth information
+  https://github.com/ponyzym/Efficient-Diffusion-Models-Survey Comparative list of diffusion models
+
+  
+RELATED COLLECTIONS
+  https://github.com/gpu-mode/awesomeMLSys Like a greatest hits collection, but for GPUs
+  https://github.com/BestJunYu/Awesome-Physics-aware-Generation Physics-specific paper collection
+  https://github.com/thubZ09/All-Things-Multimodal Solid Multimodal Source
+  https://github.com/pliang279/awesome-multimodal-ml Huge multimodal paper collection
+  https://github.com/hindupuravinash/the-gan-zoo Very thorough GAN paper collection
+  https://www.ibm.com/think/topics/diffusion-models Technical but brief overview of Diffusion models
+  https://github.com/christianversloot/machine-learning-articles Moar
+  https://huggingface.co/blog/TimothyAlexisVass/explaining-the-sdxl-latent-space SDXL Specific details
+  https://github.com/neobundy/Deep-Dive-Into-AI-With-MLX-PyTorch/tree/master/deep-dives MLX architecture
+  https://github.com/kyegomez/EXA-1 Very large but dated paper collection
 
