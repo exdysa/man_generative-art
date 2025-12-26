@@ -176,7 +176,7 @@ https://arxiv.org/abs/2512.15657 SoFlow One Step Generative Modeling
 ADVERSARIAL PERTURBATIONS
 
 https://arxiv.org/abs/2302.04222 Glaze
-https://arxiv.org/abs/2302.04578 MIST
+https://arxiv.org/abs/2302.04578 MIST/AdvDM Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models
 https://arxiv.org/abs/2302.06588 Photoguard
 https://arxiv.org/abs/2303.15433 AntiDreambooth
 https://arxiv.org/abs/2310.13828 Nightshade
@@ -185,6 +185,14 @@ https://arxiv.org/abs/2312.07865 SimAC
 https://arxiv.org/abs/2405.20584 AdvDM/DisDif Disrupting Diffusion Via Token-Level Attention Erasure
 https://arxiv.org/abs/2409.08167 HF-Anti Dreambooth
 https://arxiv.org/abs/2412.11638 IDProtector
+https://dl.acm.org/doi/abs/10.1145/3503161.3547923 StyleGAN Inversion
+
+FACIAL PRIVACY
+
+https://arxiv.org/abs/2305.13625 DiffProtect: Generate Adversarial Examples with Diffusion Models for Facial Privacy Protection
+https://arxiv.org/abs/2309.05330 DiffPrivate: Facial Privacy Protection with Diffusion Models
+https://ieeexplore.ieee.org/document/10688292 SD4Privacy: Exploiting Stable Diffusion for Protecting Facial Privacy
+https://arxiv.org/abs/2503.10350 Enhancing Facial Privacy Protection via Weakening Diffusion Purification
 
 ANTI-ADVERSARIAL PERTURBATIONS
 https://arxiv.org/abs/2205.07460 DiffPure
